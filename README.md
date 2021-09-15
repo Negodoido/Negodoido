@@ -21,4 +21,4 @@
 
   <img aling="center" alt="html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/><br>
 
-  Sou Apaixonado pela tecnologia;<br>Quem Não Luta pelo Futuro que quer,Tem que aceitar o Futuro que vier.
+  Sou Apaixonado pela tecnologia;<br><strong>Quem Não Luta pelo Futuro que quer,Tem que aceitar o Futuro que vier,<strong>
